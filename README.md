@@ -38,7 +38,6 @@ This structure improves **maintainability**, **scalability**, and **testability*
 ## 🛠 Tech Stack
 
 * **ASP.NET Core Web API**
-* **Entity Framework Core** (for connection management and mapping)
 * **SQL Server** (Stored Procedures)
 * **Swagger / OpenAPI**
 
